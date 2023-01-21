@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Schedule Local Notification</string>
+    <string name="title">Title</string>
+    <string name="message">Message</string>
+    <string name="schedule_notification">Schedule Notification</string>
+    <string name="channel_name">Schedule Channel</string>
+    <string name="channel_description">Schedule Notification Channel</string>
+</resources>
